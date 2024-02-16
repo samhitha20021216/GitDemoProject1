@@ -11,5 +11,8 @@ public class Test {
 		else {
 			System.out.println(" go study");
 		}
+		
+		Hello g=new Hello();
+		g.greet();
 	}
 }
