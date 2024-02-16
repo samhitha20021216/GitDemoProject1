@@ -1,4 +1,4 @@
-package GIT;
+package git;
 
 public class Hello {
 	void greet() {
